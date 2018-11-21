@@ -1,0 +1,13 @@
+gzip
+htpasswd
+iconv
+ldappasswd
+mkdir
+portaudit
+smbpasswd
+syslog
+systemd
+uname
+wget
+whois
+xargs

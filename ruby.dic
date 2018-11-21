@@ -1,0 +1,6 @@
+downcase
+gsub
+parseconfig
+popen
+rubygems
+strftime
