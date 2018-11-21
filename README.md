@@ -20,7 +20,7 @@
 ## Где можно использовать
 
 - [IDE от JetBrains](https://www.jetbrains.com/products.html) — IDEA, PHPStorm и т. д.
-  [Установка](https://www.jetbrains.com/help/phpstorm/spellchecking.html#configure-the-dictionaries-to-use)
+  [Установка](https://www.jetbrains.com/help/phpstorm/spellchecking.html#configure-the-dictionaries-to-use).
 
 ## Где взять словари для естественных языков
 
