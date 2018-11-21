@@ -16,3 +16,12 @@
 - Специфические термины, используемые в естественных языках: 
   - [native.english.dic]() — английском;
   - [native.russian.dic]() — русском.
+
+## Где можно использовать
+
+- [IDE от JetBrains](https://www.jetbrains.com/products.html) — IDEA, PHPStorm и т. д.
+  [Установка](https://www.jetbrains.com/help/phpstorm/spellchecking.html#configure-the-dictionaries-to-use)
+
+## Где взять словари для естественных языков
+
+- [Словари PHPSpellcheck](https://www.phpspellcheck.com/Download)
