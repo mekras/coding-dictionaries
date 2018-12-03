@@ -8,7 +8,8 @@
 - [git.dic](git.dic) — Слова, связанные с [Git](https://git-scm.com/).
 - [html.dic](html.dic) — Слова, встречающиеся в документах [HTML](https://www.w3.org/TR/html/) —
   теги, атрибуты и т. п.
-- [mysql.dic](mysql.dic) — Операторы, функции и утилиты [MySQL](https://www.mysql.com/).
+- [mysql.dic](mysql.dic) — Операторы, функции и утилиты [MySQL](https://www.mysql.com/),
+  отсутствующие в `sql.dic`.
 - [names.dic](names.dic) — Различные названия и имена.
 - [nix.dic](nix.dic) — Команды и термины UNIX-подобных систем.
 - [php.dic](php.dic) — Слова, связанные с [PHP](http://php.net/). 
@@ -16,6 +17,9 @@
 - Специфические термины, используемые в естественных языках: 
   - [native.english.dic]() — английском;
   - [native.russian.dic]() — русском.
+- [sql.dic](sql.dic) — Ключевые слова стандартов
+  [SQL-92](http://www.contrib.andrew.cmu.edu/~shadow/sql/sql1992.txt), SQL-99, SQL-2003, SQL-2008 и
+  SQL-2011.
 
 ## Где можно использовать
 
