@@ -13,6 +13,8 @@
 - [names.dic](names.dic) — Различные названия и имена.
 - [nix.dic](nix.dic) — Команды и термины UNIX-подобных систем.
 - [php.dic](php.dic) — Слова, связанные с [PHP](http://php.net/). 
+- [postgresql.dic](postgresql.dic) — Операторы, функции и утилиты
+  [PostgreSQL](https://www.postgresql.org/), отсутствующие в `sql.dic`.
 - [ruby.dic](ruby.dic) — Слова, связанные с [Ruby](https://www.ruby-lang.org/). 
 - Специфические термины, используемые в естественных языках: 
   - [native.english.dic]() — английском;
