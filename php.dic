@@ -2,6 +2,7 @@ autoload
 dwoo
 eval
 fclose
+finfo
 fopen
 fread
 fseek
@@ -10,7 +11,7 @@ geteuid
 getlogin
 gzdeflate
 gzinflate
-HHVM
+hhvm
 isset
 mbstring
 mcrypt
