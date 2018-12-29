@@ -2,6 +2,9 @@ gzip
 htpasswd
 iconv
 ldappasswd
+libcurl
+libicu
+libzip
 mkdir
 portaudit
 smbpasswd
