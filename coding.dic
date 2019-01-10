@@ -9,6 +9,7 @@ charsets
 codesize
 datagrid
 endif
+endswith
 errno
 filesize
 fixme
@@ -28,6 +29,7 @@ proc
 rpush
 screenshot
 spellcheck
+startswith
 statusbar
 stderr
 stdin

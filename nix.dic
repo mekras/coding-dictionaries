@@ -4,6 +4,9 @@ iconv
 ldappasswd
 libcurl
 libicu
+libmcrypt
+libmysqld
+libssl
 libzip
 mkdir
 portaudit

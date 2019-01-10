@@ -32,6 +32,7 @@ realpath
 scssphp
 sprintf
 stream_get_contents
+strtolower
 swiftmailer
 symfony
 ttyname
