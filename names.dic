@@ -5,6 +5,7 @@ apigen
 awstats
 bmatzner
 cleverbridge
+codesniffer
 dbunit
 deployer
 developerforce
@@ -35,6 +36,7 @@ sape
 satooshi
 sloccount
 sqlite
+squizlabs
 stof
 tinymce
 webshim
