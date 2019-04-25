@@ -2,6 +2,7 @@ autoload
 dwoo
 eval
 fclose
+fileinfo
 finfo
 fopen
 fread
@@ -21,6 +22,7 @@ phar
 phing
 phpcpd
 phpcs
+phpmailer
 phpmd
 phpmetrics
 phpthumb
