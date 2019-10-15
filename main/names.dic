@@ -1,6 +1,7 @@
 afarkas
 aflex
 amazonwebservices
+AMQP
 apigen
 awstats
 bmatzner
@@ -9,6 +10,7 @@ codesniffer
 dbunit
 deployer
 developerforce
+diactoros
 diafan
 dobrosite
 dokuwiki
@@ -32,11 +34,13 @@ marketo
 modernizr
 nullmailer
 ocramius
+phpdocumentor
 robloach
 salesforce
 sape
 satooshi
 sloccount
+SMTP
 sqlite
 squizlabs
 stof
