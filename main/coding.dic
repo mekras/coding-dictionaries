@@ -17,7 +17,9 @@ fqdn
 fullscreen
 gethostbyaddr
 gethostbyname
+healthcheck
 idekey
+jsonrpc
 listbox
 lpop
 memberof
@@ -42,4 +44,3 @@ thmb
 unshift
 unusedcode
 xliff
-healthcheck
