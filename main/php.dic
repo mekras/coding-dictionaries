@@ -43,3 +43,8 @@ unserialize
 xdebug
 xmlwriter
 zlib
+bcdiv
+bcadd
+bcmul
+bcsub
+bcpow
