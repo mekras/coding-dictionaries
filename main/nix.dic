@@ -3,11 +3,13 @@ htpasswd
 iconv
 ldappasswd
 libcurl
+libffmpeg
 libicu
 libmcrypt
 libmysqld
 libssl
 libzip
+mcedit
 mkdir
 portaudit
 smbpasswd
