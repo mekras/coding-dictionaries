@@ -2,6 +2,7 @@ addr
 attrs
 autoload
 autoloader
+autowire
 callstatic
 changefreq
 charmap
