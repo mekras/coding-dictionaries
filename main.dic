@@ -124,6 +124,7 @@ current_user
 cursor
 cycle
 dast
+DAST
 data
 datagrid
 dataset
@@ -515,9 +516,11 @@ salesforce
 samp
 sape
 sast
+SAST
 satooshi
 savepoint
 sca
+SCA
 schema
 scope
 screenshot
